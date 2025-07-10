@@ -24,6 +24,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/HARIHARAN-SOURCE-CODE](https://github.com/HARIHARAN-SOURCE-CODE)
 
 - 📫 How to reach me **HARI19BCS068@GMAIL.COM**
+-  Phone **8778866319**
 
 - ⚡ Fun fact **".NET" was originally called "Next Generation Windows Services (NGWS)" before it was officially named by Microsoft. Today, it's one of the most versatile frameworks, supporting web, mobile, desktop, cloud, and even IoT applications**
 
