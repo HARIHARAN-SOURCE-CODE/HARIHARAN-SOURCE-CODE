@@ -1,7 +1,5 @@
 <!-- MASTER BANNER SECTION -->
-<div align="center">
-  <img src="https://i.imgur.com/m1wXjqw.png" alt="Banner" />
-</div>
+
 
 <h1 align="center">Hi 👋, I'm HARIHARAN</h1>
 <h3 align="center">Dedicated .NET developer building efficient, scalable applications.</h3>
