@@ -15,8 +15,6 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **ANGULAR**
-
 - 👯 I’m looking to collaborate on [open source projects.](https://github.com/HARIHARAN-SOURCE-CODE/Gmail_Registeration_Repo)
 
 - 🤝 I’m looking for help with [.NET project](https://github.com/HARIHARAN-SOURCE-CODE/CRUD-ASP.NETCORE-MVC)
