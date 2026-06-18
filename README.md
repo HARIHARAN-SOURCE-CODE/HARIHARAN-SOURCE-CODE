@@ -1,83 +1,49 @@
-# Hariharan
+<!-- MASTER BANNER SECTION -->
 
-### Graduate Student | Artificial Intelligence & Computer Vision Research
+<h1 align="center">Hi 👋, I'm Hariharan</h1>
 
-Currently pursuing graduate studies at **National Taipei University of Technology (NTUT)** and conducting research in **Prof. Yo-Ping Huang's Laboratory**.
+<h3 align="center">
+PhD Researcher at NTUT | Artificial Intelligence, Deep Learning & Computer Vision
+</h3>
 
-My research interests focus on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Intelligent Systems**. I am particularly interested in developing intelligent vision-based solutions using modern deep learning architectures and object detection frameworks.
+<img align="right" alt="AI Research" width="400"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
----
-
-## Research Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Object Detection
-- Image Processing
-- Pattern Recognition
-- Intelligent Systems
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hariharan-source-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## Current Academic Focus
+- 🎓 Currently pursuing **PhD at National Taipei University of Technology (NTUT)**  
+- 🔬 Researcher in **Prof. Yo-Ping Huang’s Laboratory**  
+- 🧠 Specializing in **Artificial Intelligence (AI) and Deep Learning**  
+- 📊 Working on **Machine Learning (ML) algorithms and optimization**  
+- 👁️ Focused on **Computer Vision & Image Processing systems**  
+- 🎯 Research area includes **CNN, Object Detection, and YOLO architectures**  
+- 📚 Interested in **AI-driven intelligent systems and real-world deployment**  
+- 🧪 Conducting research on **vision-based deep learning models**  
+- 👨‍💻 Projects available at:  
+  https://github.com/HARIHARAN-SOURCE-CODE  
+- 📫 Contact: **hari19bcs068@gmail.com**
 
+---
+
+<h3 align="left">🔬 Research Roadmap</h3>
+
+```text
 Artificial Intelligence
-→ Machine Learning
-→ Deep Learning
-→ Neural Networks
-→ Convolutional Neural Networks (CNNs)
-→ Computer Vision
-→ Object Detection (YOLO)
-→ Research & Real-World Applications
-
----
-
-## Technical Skills
-
-### Programming Languages
-- Python
-- C#
-- SQL
-- JavaScript
-
-### Artificial Intelligence & Computer Vision
-- Deep Learning
-- CNN
-- YOLO
-- OpenCV
-- TensorFlow
-- PyTorch
-
-### Software Development
-- ASP.NET Core
-- Web API
-- Entity Framework Core
-- SQL Server
-- HTML
-- CSS
-
----
-
-## Current Work
-
-- Deep Learning Model Development
-- Computer Vision Research
-- Object Detection using YOLO
-- Research Paper Analysis and Implementation
-- AI-Based Intelligent Systems
-- ASP.NET Core Application Development
-
----
-
-## Academic Goal
-
-To contribute to the advancement of Artificial Intelligence and Computer Vision through research-driven solutions that address real-world challenges and create meaningful technological impact.
-
----
-
-## Contact
-
-- LinkedIn: linkedin.com/in/hariharan300
-- GitHub: github.com/HARIHARAN-SOURCE-CODE
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Neural Networks
+        ↓
+Convolutional Neural Networks (CNN)
+        ↓
+Computer Vision
+        ↓
+Object Detection (YOLO)
+        ↓
+Research Publications & Real-World Applications
