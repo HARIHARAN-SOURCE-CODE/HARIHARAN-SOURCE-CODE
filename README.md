@@ -1,7 +1,7 @@
 <!-- ================= ANIMATED HEADER ================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hariharan%20C&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=PhD%20Researcher%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20Edge%20AI&descSize=20&descAlignY=58" alt="Hariharan C banner" />
+<img width="100%" src="assets/hero.svg" alt="Hariharan C - AIoT and bird detection animation" />
 
 <a href="https://github.com/HARIHARAN-SOURCE-CODE">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E1B4&center=true&vCenter=true&width=800&height=50&lines=PhD+Student+%40+National+Taipei+University+of+Technology;Ubiquitous+Computing+Laboratory+(UCL);Deep+Learning+%26+Object+Detection+(YOLO);Pose+Estimation+%2B+LSTM+for+Action+Recognition;AIoT+%26+Edge+AI+on+NVIDIA+Jetson+Orin+Nano" alt="Typing animation" />
@@ -98,7 +98,7 @@ Real-time deep learning inference on embedded hardware.
 
 <div align="center">
 
-**Deep Learning** ➜ **Computer Vision** ➜ **Intelligent Systems** ➜ **Edge AI & AIoT** ➜ **Research & Publications**
+<img width="100%" src="assets/roadmap.svg" alt="Research roadmap: Deep Learning, Computer Vision, Intelligent Systems, Edge AI and AIoT, Research" />
 
 </div>
 
