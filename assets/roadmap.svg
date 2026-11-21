@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" width="1200" height="290" role="img" aria-label="Research roadmap: Deep Learning, Computer Vision, Intelligent Systems, Edge AI and AIoT, Research">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b1a"/><stop offset="1" stop-color="#0c2a4a"/></linearGradient>
+<linearGradient id="prog" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e1b4"/><stop offset="1" stop-color="#50d2ff"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="290" rx="20" fill="url(#bg)" stroke="#1f3a52" stroke-width="1.5"/>
+<rect width="1200" height="290" rx="20" fill="url(#grid)"/>
+<text x="600" y="44" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#00e1b4" letter-spacing="6">RESEARCH ROADMAP</text>
+<line x1="120" y1="135" x2="1080" y2="135" stroke="#2b4a68" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 9"/>
+<rect x="120" y="132.5" width="0" height="5" rx="2.5" fill="url(#prog)" filter="url(#glow)"><animate attributeName="width" values="0;960;960;0" keyTimes="0;.8;.95;1" dur="10.0s" repeatCount="indefinite"/></rect>
+<g>
+<circle cx="120" cy="135" r="34" fill="none" stroke="#00e1b4" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;.8;0;0" keyTimes="0;0.000;0.030;0.150;1" dur="10.0s" repeatCount="indefinite"/><animate attributeName="r" values="34;34;34;54;54" keyTimes="0;0.000;0.030;0.150;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<circle cx="120" cy="135" r="36" fill="#0d1a2c" stroke="#2b4a68" stroke-width="3"><animate attributeName="stroke" values="#2b4a68;#2b4a68;#00e1b4;#00e1b4;#2b4a68" keyTimes="0;0.000;0.030;0.95;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<g stroke="#cfe8ff" stroke-opacity=".6" stroke-width="1.2"><line x1="106" y1="127" x2="120" y2="121"/><line x1="106" y1="127" x2="120" y2="135"/><line x1="106" y1="127" x2="120" y2="149"/><line x1="106" y1="143" x2="120" y2="121"/><line x1="106" y1="143" x2="120" y2="135"/><line x1="106" y1="143" x2="120" y2="149"/><line x1="120" y1="121" x2="134" y2="135"/><line x1="120" y1="135" x2="134" y2="135"/><line x1="120" y1="149" x2="134" y2="135"/></g><circle cx="106" cy="127" r="3.2" fill="#cfe8ff"/><circle cx="106" cy="143" r="3.2" fill="#cfe8ff"/><circle cx="120" cy="121" r="3.2" fill="#cfe8ff"/><circle cx="120" cy="135" r="3.2" fill="#cfe8ff"/><circle cx="120" cy="149" r="3.2" fill="#cfe8ff"/><circle cx="134" cy="135" r="3.2" fill="#cfe8ff"/>
+<circle cx="90" cy="105" r="11" fill="#0a1020" stroke="#2b4a68" stroke-width="2"><animate attributeName="stroke" values="#2b4a68;#2b4a68;#00e1b4;#00e1b4;#2b4a68" keyTimes="0;0.000;0.030;0.95;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<text x="90" y="109" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#fff">1</text>
+<text x="120" y="201" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">Deep Learning</text>
+<text x="120" y="222" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#9fb3c8">Neural networks &amp; CNN</text>
+</g>
+<g>
+<circle cx="360" cy="135" r="34" fill="none" stroke="#00e1b4" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;.8;0;0" keyTimes="0;0.200;0.230;0.350;1" dur="10.0s" repeatCount="indefinite"/><animate attributeName="r" values="34;34;34;54;54" keyTimes="0;0.200;0.230;0.350;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<circle cx="360" cy="135" r="36" fill="#0d1a2c" stroke="#2b4a68" stroke-width="3"><animate attributeName="stroke" values="#2b4a68;#2b4a68;#00e1b4;#00e1b4;#2b4a68" keyTimes="0;0.200;0.230;0.95;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<g fill="none" stroke="#ffd23f" stroke-width="2.4" stroke-linecap="round"><path d="M345,129 V122 H352"/><path d="M375,129 V122 H368"/><path d="M345,141 V148 H352"/><path d="M375,141 V148 H368"/></g><circle cx="360" cy="135" r="3.5" fill="#ffd23f"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="330" cy="105" r="11" fill="#0a1020" stroke="#2b4a68" stroke-width="2"><animate attributeName="stroke" values="#2b4a68;#2b4a68;#00e1b4;#00e1b4;#2b4a68" keyTimes="0;0.200;0.230;0.95;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<text x="330" y="109" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#fff">2</text>
+<text x="360" y="201" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">Computer Vision</text>
+<text x="360" y="222" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#9fb3c8">Object detection · YOLO</text>
+</g>
+<g>
+<circle cx="600" cy="135" r="34" fill="none" stroke="#00e1b4" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;.8;0;0" keyTimes="0;0.400;0.430;0.550;1" dur="10.0s" repeatCount="indefinite"/><animate attributeName="r" values="34;34;34;54;54" keyTimes="0;0.400;0.430;0.550;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<circle cx="600" cy="135" r="36" fill="#0d1a2c" stroke="#2b4a68" stroke-width="3"><animate attributeName="stroke" values="#2b4a68;#2b4a68;#00e1b4;#00e1b4;#2b4a68" keyTimes="0;0.400;0.430;0.95;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<g stroke="#cfe8ff" stroke-width="2.6" stroke-linecap="round" fill="none"><circle cx="600" cy="121" r="4" fill="#cfe8ff"/><line x1="600" y1="126" x2="600" y2="139"/><line x1="600" y1="130" x2="612" y2="123"><animateTransform attributeName="transform" type="rotate" values="0 600 130;-50 600 130;0 600 130" dur="1s" repeatCount="indefinite"/></line><line x1="600" y1="130" x2="589" y2="137"/><line x1="600" y1="139" x2="592" y2="150"/><line x1="600" y1="139" x2="608" y2="150"/></g>
+<circle cx="570" cy="105" r="11" fill="#0a1020" stroke="#2b4a68" stroke-width="2"><animate attributeName="stroke" values="#2b4a68;#2b4a68;#00e1b4;#00e1b4;#2b4a68" keyTimes="0;0.400;0.430;0.95;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<text x="570" y="109" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#fff">3</text>
+<text x="600" y="201" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">Intelligent Systems</text>
+<text x="600" y="222" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#9fb3c8">Vision-based applications</text>
+</g>
+<g>
+<circle cx="840" cy="135" r="34" fill="none" stroke="#00e1b4" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;.8;0;0" keyTimes="0;0.600;0.630;0.750;1" dur="10.0s" repeatCount="indefinite"/><animate attributeName="r" values="34;34;34;54;54" keyTimes="0;0.600;0.630;0.750;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<circle cx="840" cy="135" r="36" fill="#0d1a2c" stroke="#2b4a68" stroke-width="3"><animate attributeName="stroke" values="#2b4a68;#2b4a68;#00e1b4;#00e1b4;#2b4a68" keyTimes="0;0.600;0.630;0.95;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<g stroke="#76b900" stroke-width="2" stroke-linecap="round"><line x1="831" y1="120" x2="831" y2="125"/><line x1="831" y1="145" x2="831" y2="150"/><line x1="825" y1="126" x2="830" y2="126"/><line x1="850" y1="126" x2="855" y2="126"/><line x1="840" y1="120" x2="840" y2="125"/><line x1="840" y1="145" x2="840" y2="150"/><line x1="825" y1="135" x2="830" y2="135"/><line x1="850" y1="135" x2="855" y2="135"/><line x1="849" y1="120" x2="849" y2="125"/><line x1="849" y1="145" x2="849" y2="150"/><line x1="825" y1="144" x2="830" y2="144"/><line x1="850" y1="144" x2="855" y2="144"/></g><rect x="830" y="125" width="20" height="20" rx="3" fill="#0f1b2d" stroke="#76b900" stroke-width="2.2"/><rect x="836" y="131" width="8" height="8" rx="1.5" fill="#76b900"><animate attributeName="opacity" values="1;.25;1" dur="1s" repeatCount="indefinite"/></rect>
+<circle cx="810" cy="105" r="11" fill="#0a1020" stroke="#2b4a68" stroke-width="2"><animate attributeName="stroke" values="#2b4a68;#2b4a68;#00e1b4;#00e1b4;#2b4a68" keyTimes="0;0.600;0.630;0.95;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<text x="810" y="109" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#fff">4</text>
+<text x="840" y="201" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">Edge AI &amp; AIoT</text>
+<text x="840" y="222" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#9fb3c8">Real-world deployment</text>
+</g>
+<g>
+<circle cx="1080" cy="135" r="34" fill="none" stroke="#00e1b4" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;.8;0;0" keyTimes="0;0.800;0.830;0.950;1" dur="10.0s" repeatCount="indefinite"/><animate attributeName="r" values="34;34;34;54;54" keyTimes="0;0.800;0.830;0.950;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<circle cx="1080" cy="135" r="36" fill="#0d1a2c" stroke="#2b4a68" stroke-width="3"><animate attributeName="stroke" values="#2b4a68;#2b4a68;#00e1b4;#00e1b4;#2b4a68" keyTimes="0;0.800;0.830;0.95;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<rect x="1069" y="120" width="22" height="30" rx="3" fill="none" stroke="#cfe8ff" stroke-width="2.2"/><g stroke="#cfe8ff" stroke-width="2" stroke-linecap="round"><line x1="1074" y1="127" x2="1086" y2="127"/><line x1="1074" y1="133" x2="1086" y2="133"/><line x1="1074" y1="139" x2="1082" y2="139"/></g><path d="M1082,145 l3,3 l6,-7" fill="none" stroke="#00e1b4" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1050" cy="105" r="11" fill="#0a1020" stroke="#2b4a68" stroke-width="2"><animate attributeName="stroke" values="#2b4a68;#2b4a68;#00e1b4;#00e1b4;#2b4a68" keyTimes="0;0.800;0.830;0.95;1" dur="10.0s" repeatCount="indefinite"/></circle>
+<text x="1050" y="109" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="700" fill="#fff">5</text>
+<text x="1080" y="201" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">Research</text>
+<text x="1080" y="222" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" fill="#9fb3c8">Publications &amp; impact</text>
+</g>
+
+<circle r="7" fill="#ffffff" filter="url(#glow)"><animateMotion dur="10.0s" repeatCount="indefinite" path="M120,135 L1080,135" keyPoints="0;1;1" keyTimes="0;.8;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.8;.82;1" dur="10.0s" repeatCount="indefinite"/></circle>
+</svg>
