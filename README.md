@@ -121,7 +121,7 @@ Real-time deep learning inference on embedded hardware.
 
 <br/>
 
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=HARIHARAN-SOURCE-CODE&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
+<img alt="Followers" src="https://img.shields.io/github/followers/HARIHARAN-SOURCE-CODE?style=for-the-badge&logo=github&color=0d1117&labelColor=00e1b4" /> <img alt="Public repos" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/HARIHARAN-SOURCE-CODE&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=0d1117&labelColor=50d2ff" />
 
 </div>
 
